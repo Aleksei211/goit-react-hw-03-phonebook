@@ -1,0 +1,15 @@
+.name {
+  margin-right: 20px;
+  margin-bottom: 30px;
+  font-weight: 500;
+  font-size: 28px;
+}
+input {
+  height: 25px;
+  width: 200px;
+  margin-bottom: 30px;
+}
+button {
+  width: 140px;
+  padding: 10px;
+}
